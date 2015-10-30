@@ -3,11 +3,27 @@
 ### Overview
 
 We are super excited to offer a guest lecture from the TDD + pair programming
-masters at Pivotal Labs!
+masters at Pivotal Labs! We typically have a traditional lecture and Q+A session
+each morning from 9 until 10:30 - 11ish.
+
+It would be great if the Pivots visiting App Academy would hold a lecture on TDD
+and RSpec topics. An actual demonstration of industrial TDD would be an amazing
+experience that the students would truly benefit from. We have taught this
+content since the dawn of our program but would love to have some industry
+eyes on it so we can improve!
+
+In addition, if the visitors would like to assist the students as they work on
+the day's projects that would be wonderful and very much appreciated!
+
+I have tried to attach all the material for this day of our program as well as
+lecture notes from previous lectures. Please let us know if there is any other
+information, clarification, anything we can provide to help prepare for the day!
+
+Thanks Again!
 
 ### Tentative Schedule
 
-* 9:00AM - 9:45AM: App Academy Instructor Q + A about previous day's assignments
+* 9:00AM - 9:45AM: App Academy Instructor Q+A with students
 * 9:45AM - 10:00AM: Lecture Intermission
 * 10:00AM - 10:30AM: Pivotal Labs Background Lecture + Q/A
 * 10:30AM - 11:??AM: Pivot Led Lecture about TDD and RSpec
@@ -30,7 +46,6 @@ masters at Pivotal Labs!
 + [Test doubles][test-doubles]
 + [Order of RSpec methods][rspec-order]
 + [guard-rspec][guard-rspec]
-+ **Demo Reading**: read assessment00 and assessment01 spec files
 + **Demo Reading**: [OO Robot RSpec Example][robot-demo]
 
 ### Day's Projects
